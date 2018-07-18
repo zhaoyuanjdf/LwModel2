@@ -7,8 +7,7 @@ import logging
 import pandas as pd
 # from imp import reload
 
-# reload(sys)
-# sys.setdefaultencoding('utf-8')  #再python3中移除
+
 
 __author__ = 'jdf'
 
